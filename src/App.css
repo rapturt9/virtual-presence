@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
+.container input {
+  display: block;
+  text-align: center;
+  margin: 0.5em auto;
+  padding: 0.5em;
+}
+
+.stream {
+  width: 900px;
+  height: 540px;
+  margin-left:50px;
+  margin-bottom:10px;
+}
+
+.stream2 {
+  width: 568px;
+  height: 320px;
+}
